@@ -2,8 +2,8 @@
 
 [Cheatsheet for markdown in jupyter notebook](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-# [Working with coding cells](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-# [Keyboard shortcuts](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+# [Working with coding cells](Setup/working-with-coding-cells.ipynb)
+# [Keyboard shortcuts](Setup/keyboard-shortcuts.ipynb)
 
 # Magic keywords
 
