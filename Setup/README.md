@@ -2,8 +2,8 @@
 
 [Cheatsheet for markdown in jupyter notebook](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-# [Working with coding cells](https://github.com/rohit18115/Udacity-intro-to-ML-Pytorch/blob/main/Setup/working-with-code-cells.ipynb)
-# [Keyboard shortcuts](https://github.com/rohit18115/Udacity-intro-to-ML-Pytorch/blob/main/Setup/keyboard-shortcuts.ipynb)
+[Working with coding cells](https://github.com/rohit18115/Udacity-intro-to-ML-Pytorch/blob/main/Setup/working-with-code-cells.ipynb)
+[Keyboard shortcuts](https://github.com/rohit18115/Udacity-intro-to-ML-Pytorch/blob/main/Setup/keyboard-shortcuts.ipynb)
 
 # Magic keywords
 
